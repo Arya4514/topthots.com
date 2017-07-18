@@ -1,0 +1,293 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 17 Jul 2017 20:38:49 at https://theporndude.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://theporndude.com/ -O1 "H:\PornDude\PornDude" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:20:37	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://theporndude.com/)
+22:27:45	Warning: 	Moved Permanently for https://theporndude.com/de/
+22:27:45	Warning: 	File has moved from https://theporndude.com/de/ to /de
+22:29:39	Warning: 	Moved Permanently for https://theporndude.com/es/
+22:29:39	Warning: 	File has moved from https://theporndude.com/es/ to /es
+22:31:38	Warning: 	Moved Permanently for https://theporndude.com/fr/
+22:31:38	Warning: 	File has moved from https://theporndude.com/fr/ to /fr
+22:33:30	Warning: 	Moved Permanently for https://theporndude.com/it/
+22:33:30	Warning: 	File has moved from https://theporndude.com/it/ to /it
+22:35:32	Warning: 	Moved Permanently for https://theporndude.com/nl/
+22:35:32	Warning: 	File has moved from https://theporndude.com/nl/ to /nl
+22:35:55	Error: 	"Origin Time-out" (524) at link https://theporndude.com/nl/top-sex-cam-sites (from https://theporndude.com/nl)
+22:37:26	Warning: 	Moved Permanently for https://theporndude.com/no/
+22:37:26	Warning: 	File has moved from https://theporndude.com/no/ to /no
+22:39:20	Warning: 	Moved Permanently for https://theporndude.com/pt/
+22:39:20	Warning: 	File has moved from https://theporndude.com/pt/ to /pt
+22:39:32	Error: 	"Origin Time-out" (524) at link https://theporndude.com/pt/1204/antarvasnasexvideos (from https://theporndude.com/pt)
+22:41:26	Warning: 	Moved Permanently for https://theporndude.com/ro/
+22:41:26	Warning: 	File has moved from https://theporndude.com/ro/ to /ro
+22:43:29	Warning: 	Moved Permanently for https://theporndude.com/ru/
+22:43:29	Warning: 	File has moved from https://theporndude.com/ru/ to /ru
+22:45:51	Warning: 	Moved Permanently for https://theporndude.com/sv/
+22:45:51	Warning: 	File has moved from https://theporndude.com/sv/ to /sv
+22:47:47	Warning: 	Moved Permanently for https://theporndude.com/tr/
+22:47:47	Warning: 	File has moved from https://theporndude.com/tr/ to /tr
+22:49:27	Error: 	"Method Not Allowed" (405) at link https://theporndude.com/blog/xmlrpc.php (from https://theporndude.com/blog/)
+22:51:29	Error: 	"Not Found" (404) at link https://theporndude.com/1999/hotindiancouplescom (from https://theporndude.com/758/indiangfvideos)
+22:51:34	Error: 	"Not Found" (404) at link https://theporndude.com/1832/btdb (from https://theporndude.com/1403/youpornbook)
+22:51:57	Error: 	"Not Found" (404) at link https://theporndude.com/de/1999/hotindiancouplescom (from https://theporndude.com/de/758/indiangfvideos)
+22:51:58	Error: 	"Not Found" (404) at link https://theporndude.com/de/1832/btdb (from https://theporndude.com/de/1073/pornleech)
+22:52:02	Error: 	"Not Found" (404) at link https://theporndude.com/es/1999/hotindiancouplescom (from https://theporndude.com/es/758/indiangfvideos)
+22:52:02	Error: 	"Not Found" (404) at link https://theporndude.com/es/1832/btdb (from https://theporndude.com/es/1073/pornleech)
+22:52:08	Error: 	"Not Found" (404) at link https://theporndude.com/fr/1999/hotindiancouplescom (from https://theporndude.com/fr/758/indiangfvideos)
+22:52:08	Error: 	"Not Found" (404) at link https://theporndude.com/fr/1832/btdb (from https://theporndude.com/fr/472/rarbg)
+22:52:11	Error: 	"Not Found" (404) at link https://theporndude.com/it/1999/hotindiancouplescom (from https://theporndude.com/it/758/indiangfvideos)
+22:52:12	Error: 	"Not Found" (404) at link https://theporndude.com/it/1832/btdb (from https://theporndude.com/it/472/rarbg)
+22:52:16	Error: 	"Not Found" (404) at link https://theporndude.com/nl/1999/hotindiancouplescom (from https://theporndude.com/nl/758/indiangfvideos)
+22:52:16	Error: 	"Not Found" (404) at link https://theporndude.com/nl/1832/btdb (from https://theporndude.com/nl/1073/pornleech)
+22:52:20	Error: 	"Not Found" (404) at link https://theporndude.com/no/1999/hotindiancouplescom (from https://theporndude.com/no/758/indiangfvideos)
+22:52:21	Error: 	"Not Found" (404) at link https://theporndude.com/no/1832/btdb (from https://theporndude.com/no/1073/pornleech)
+22:52:25	Error: 	"Not Found" (404) at link https://theporndude.com/pt/1999/hotindiancouplescom (from https://theporndude.com/pt/758/indiangfvideos)
+22:52:26	Error: 	"Not Found" (404) at link https://theporndude.com/pt/1832/btdb (from https://theporndude.com/pt/1073/pornleech)
+22:52:27	Error: 	"Not Found" (404) at link https://theporndude.com/pt/1850/novinhasporno18 (from https://theporndude.com/pt/1927/famosasbrasil)
+22:52:28	Error: 	"Not Found" (404) at link https://theporndude.com/ro/1999/hotindiancouplescom (from https://theporndude.com/ro/758/indiangfvideos)
+22:52:29	Error: 	"Not Found" (404) at link https://theporndude.com/ro/1832/btdb (from https://theporndude.com/ro/1073/pornleech)
+22:52:32	Error: 	"Not Found" (404) at link https://theporndude.com/ru/1999/hotindiancouplescom (from https://theporndude.com/ru/758/indiangfvideos)
+22:52:32	Error: 	"Not Found" (404) at link https://theporndude.com/ru/1832/btdb (from https://theporndude.com/ru/472/rarbg)
+22:52:36	Error: 	"Not Found" (404) at link https://theporndude.com/sv/1999/hotindiancouplescom (from https://theporndude.com/sv/758/indiangfvideos)
+22:52:36	Error: 	"Not Found" (404) at link https://theporndude.com/sv/1832/btdb (from https://theporndude.com/sv/1073/pornleech)
+22:52:40	Error: 	"Not Found" (404) at link https://theporndude.com/tr/1999/hotindiancouplescom (from https://theporndude.com/tr/758/indiangfvideos)
+22:52:40	Error: 	"Not Found" (404) at link https://theporndude.com/tr/1832/btdb (from https://theporndude.com/tr/1073/pornleech)
+22:52:44	Error: 	"Not Found" (404) at link https://theporndude.com/blog/wp-content/themes/theporndude/fonts/NexaBold.ttf (from https://theporndude.com/blog/wp-content/themes/theporndude/style.css?ver=4.7.5)
+22:52:44	Error: 	"Not Found" (404) at link https://theporndude.com/blog/wp-content/themes/theporndude/fonts/NexaBold.svg (from https://theporndude.com/blog/wp-content/themes/theporndude/style.css?ver=4.7.5)
+22:52:44	Error: 	"Not Found" (404) at link https://theporndude.com/blog/wp-content/themes/theporndude/images/icon_review.png (from https://theporndude.com/blog/wp-content/themes/theporndude/style.css?ver=4.7.5)
+22:52:44	Error: 	"Not Found" (404) at link https://theporndude.com/blog/wp-content/themes/theporndude/images/icon_rating_off.png (from https://theporndude.com/blog/wp-content/themes/theporndude/style.css?ver=4.7.5)
+22:52:44	Error: 	"Not Found" (404) at link https://theporndude.com/blog/wp-content/themes/theporndude/images/icon_arrow.png (from https://theporndude.com/blog/wp-content/themes/theporndude/style.css?ver=4.7.5)
+22:52:44	Error: 	"Not Found" (404) at link https://theporndude.com/blog/wp-content/themes/theporndude/images/mobile-friendly.png (from https://theporndude.com/blog/wp-content/themes/theporndude/style.css?ver=4.7.5)
+22:52:44	Error: 	"Not Found" (404) at link https://theporndude.com/blog/wp-content/themes/theporndude/images/icon_sprite.png (from https://theporndude.com/blog/wp-content/themes/theporndude/style.css?ver=4.7.5)
+22:52:44	Error: 	"Not Found" (404) at link https://theporndude.com/blog/wp-content/themes/theporndude/images/mobile_cat_bullets.png (from https://theporndude.com/blog/wp-content/themes/theporndude/style.css?ver=4.7.5)
+22:52:44	Error: 	"Origin Time-out" (524) at link https://theporndude.com/blog/wp-content/themes/theporndude/images/comments.png (from https://theporndude.com/blog/wp-content/themes/theporndude/style.css?ver=4.7.5)
+22:52:44	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=1199
+22:52:44	Warning: 	File has moved from https://theporndude.com/blog/?p=1199 to https://theporndude.com/blog/interactive-sex-movies/
+22:52:44	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=1205
+22:52:44	Warning: 	File has moved from https://theporndude.com/blog/?p=1205 to https://theporndude.com/blog/dont-be-like-this-lady-do-anal-safely/
+22:52:44	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=1219
+22:52:44	Warning: 	File has moved from https://theporndude.com/blog/?p=1219 to https://theporndude.com/blog/maitresse-madeline-dishes-on-camming/
+22:52:44	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=1203
+22:52:44	Warning: 	File has moved from https://theporndude.com/blog/?p=1203 to https://theporndude.com/blog/jenna-jameson-talks-dirty-on-playboy/
+22:52:44	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=1201
+22:52:44	Warning: 	File has moved from https://theporndude.com/blog/?p=1201 to https://theporndude.com/blog/mia-khalifa-gets-rowdy/
+22:52:44	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=1197
+22:52:44	Warning: 	File has moved from https://theporndude.com/blog/?p=1197 to https://theporndude.com/blog/the-first-vr-headset-just-for-porn/
+22:52:44	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=1175
+22:52:44	Warning: 	File has moved from https://theporndude.com/blog/?p=1175 to https://theporndude.com/blog/how-do-americans-feel-about-casual-sex/
+22:52:44	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=1179
+22:52:44	Warning: 	File has moved from https://theporndude.com/blog/?p=1179 to https://theporndude.com/blog/songs-about-porn/
+22:52:44	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=1177
+22:52:44	Warning: 	File has moved from https://theporndude.com/blog/?p=1177 to https://theporndude.com/blog/study-reveals-june-is-biggest-month-for-hooking-up/
+22:52:45	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=1157
+22:52:45	Warning: 	File has moved from https://theporndude.com/blog/?p=1157 to https://theporndude.com/blog/the-newest-sexual-orientation-pornosexual/
+22:53:13	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=1155
+22:53:13	Warning: 	File has moved from https://theporndude.com/blog/?p=1155 to https://theporndude.com/blog/the-latest-porn-category-fidget-spinners/
+22:53:13	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=1153
+22:53:13	Warning: 	File has moved from https://theporndude.com/blog/?p=1153 to https://theporndude.com/blog/pornhub-is-10-lets-celebrate/
+22:53:13	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=1116
+22:53:13	Warning: 	File has moved from https://theporndude.com/blog/?p=1116 to https://theporndude.com/blog/the-ups-and-downs-of-hot-girls-wanted/
+22:53:14	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=1112
+22:53:14	Warning: 	File has moved from https://theporndude.com/blog/?p=1112 to https://theporndude.com/blog/brazilian-pornstar-claims-to-be-evangelical-christian/
+22:53:15	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=1106
+22:53:15	Warning: 	File has moved from https://theporndude.com/blog/?p=1106 to https://theporndude.com/blog/pornstar-veteran-snags-npr-interview/
+22:53:16	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=1114
+22:53:16	Warning: 	File has moved from https://theporndude.com/blog/?p=1114 to https://theporndude.com/blog/pornstars-who-resemble-celebrities/
+22:53:16	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=1104
+22:53:16	Warning: 	File has moved from https://theporndude.com/blog/?p=1104 to https://theporndude.com/blog/black-chyna-and-alexis-texas-together/
+22:53:16	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=1102
+22:53:16	Warning: 	File has moved from https://theporndude.com/blog/?p=1102 to https://theporndude.com/blog/unfortunate-news-about-a-brazilian-sex-theme-park/
+22:53:16	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=1071
+22:53:16	Warning: 	File has moved from https://theporndude.com/blog/?p=1071 to https://theporndude.com/blog/a-military-and-porn-power-couple/
+22:53:17	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=1067
+22:53:17	Warning: 	File has moved from https://theporndude.com/blog/?p=1067 to https://theporndude.com/blog/porn-fans-hope-this-bill-doesnt-pass/
+22:53:46	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=266
+22:53:46	Warning: 	File has moved from https://theporndude.com/blog/?p=266 to https://theporndude.com/blog/give-up-the-halfling-she-elf/
+22:53:46	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=211
+22:53:46	Warning: 	File has moved from https://theporndude.com/blog/?p=211 to https://theporndude.com/blog/its-not-a-mans-world/
+22:53:48	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=179
+22:53:48	Warning: 	File has moved from https://theporndude.com/blog/?p=179 to https://theporndude.com/blog/cam-the-girl-out-of-you/
+22:53:48	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=139
+22:53:48	Warning: 	File has moved from https://theporndude.com/blog/?p=139 to https://theporndude.com/blog/devils-games/
+22:53:49	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=121
+22:53:49	Warning: 	File has moved from https://theporndude.com/blog/?p=121 to https://theporndude.com/blog/cumware/
+22:53:49	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=108
+22:53:49	Warning: 	File has moved from https://theporndude.com/blog/?p=108 to https://theporndude.com/blog/how-i-met-my-mother/
+22:53:49	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=87
+22:53:49	Warning: 	File has moved from https://theporndude.com/blog/?p=87 to https://theporndude.com/blog/spot-the-gold-digger/
+22:53:49	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=69
+22:53:49	Warning: 	File has moved from https://theporndude.com/blog/?p=69 to https://theporndude.com/blog/these-are-my-thoughts/
+22:54:00	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=1065
+22:54:00	Warning: 	File has moved from https://theporndude.com/blog/?p=1065 to https://theporndude.com/blog/new-porn-documentary-looks-promising/
+22:54:00	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=1069
+22:54:00	Warning: 	File has moved from https://theporndude.com/blog/?p=1069 to https://theporndude.com/blog/the-worlds-oldest-pornstar-reveals-all/
+22:54:00	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=1073
+22:54:00	Warning: 	File has moved from https://theporndude.com/blog/?p=1073 to https://theporndude.com/blog/this-famous-couple-got-caught-having-sex-in-public/
+22:54:01	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=1008
+22:54:01	Warning: 	File has moved from https://theporndude.com/blog/?p=1008 to https://theporndude.com/blog/porn-privacy-in-2017-and-beyond/
+22:54:02	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=1016
+22:54:02	Warning: 	File has moved from https://theporndude.com/blog/?p=1016 to https://theporndude.com/blog/its-kim-ks-10-year-anniversary-not-the-one-you-think/
+22:54:02	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=1010
+22:54:02	Warning: 	File has moved from https://theporndude.com/blog/?p=1010 to https://theporndude.com/blog/watch-porn-but-maybe-not-at-work/
+22:54:02	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=1014
+22:54:02	Warning: 	File has moved from https://theporndude.com/blog/?p=1014 to https://theporndude.com/blog/should-you-be-able-to-shoot-porn-anywhere/
+22:54:02	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=1018
+22:54:02	Warning: 	File has moved from https://theporndude.com/blog/?p=1018 to https://theporndude.com/blog/should-pornstars-wear-condoms/
+22:54:02	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=1012
+22:54:02	Warning: 	File has moved from https://theporndude.com/blog/?p=1012 to https://theporndude.com/blog/farewell-skin-diamond-but-well-still-see-you/
+22:54:09	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=456
+22:54:09	Warning: 	File has moved from https://theporndude.com/blog/?p=456 to https://theporndude.com/blog/feeling-horny-some-porndude-approved-porn-alternatives/
+22:54:49	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=282
+22:54:49	Warning: 	File has moved from https://theporndude.com/blog/?p=282 to https://theporndude.com/blog/when-porn-is-better-than-life/
+22:54:51	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=558
+22:54:51	Warning: 	File has moved from https://theporndude.com/blog/?p=558 to https://theporndude.com/blog/the-scoop-on-pornstar-salaries/
+22:54:53	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=404
+22:54:53	Warning: 	File has moved from https://theporndude.com/blog/?p=404 to https://theporndude.com/blog/back-to-school-beauties-on-theporndude/
+22:54:53	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=410
+22:54:53	Warning: 	File has moved from https://theporndude.com/blog/?p=410 to https://theporndude.com/blog/why-does-the-porn-dude-also-cover-gay-porn-sites/
+22:54:53	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=406
+22:54:53	Warning: 	File has moved from https://theporndude.com/blog/?p=406 to https://theporndude.com/blog/google-thinks-dirty-words-should-be-forbidden/
+22:54:53	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=501
+22:54:53	Warning: 	File has moved from https://theporndude.com/blog/?p=501 to https://theporndude.com/blog/pam-andersons-strange-stance-on-porn/
+22:54:53	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=380
+22:54:53	Warning: 	File has moved from https://theporndude.com/blog/?p=380 to https://theporndude.com/blog/history-meets-porn/
+22:54:53	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=357
+22:54:53	Warning: 	File has moved from https://theporndude.com/blog/?p=357 to https://theporndude.com/blog/porn-has-salaries-to-pay/
+22:54:53	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=332
+22:54:53	Warning: 	File has moved from https://theporndude.com/blog/?p=332 to https://theporndude.com/blog/care-for-a-porn-directory/
+22:54:53	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=300
+22:54:53	Warning: 	File has moved from https://theporndude.com/blog/?p=300 to https://theporndude.com/blog/escorts-for-hire/
+22:55:04	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=962
+22:55:04	Warning: 	File has moved from https://theporndude.com/blog/?p=962 to https://theporndude.com/blog/vr-porn-revolution-being-covered-beautifully-by-vrporn-com/
+22:55:06	Error: 	"Not Found" (404) at link https://theporndude.com/1933/vrbangers (from https://theporndude.com/blog/vr-porn-revolution-being-covered-beautifully-by-vrporn-com/)
+22:55:06	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=396
+22:55:06	Warning: 	File has moved from https://theporndude.com/blog/?p=396 to https://theporndude.com/blog/name-a-site-you-love-that-isnt-on-theporndude-lists/
+22:55:07	Warning: 	Link https://theporndude.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+22:55:08	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=460
+22:55:08	Warning: 	File has moved from https://theporndude.com/blog/?p=460 to https://theporndude.com/blog/theporndude-site-spotlight-brazzers/
+22:55:08	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=450
+22:55:08	Warning: 	File has moved from https://theporndude.com/blog/?p=450 to https://theporndude.com/blog/sex-robots-will-never-rule-as-long-as-porn-remains/
+22:55:08	Warning: 	Moved Permanently for https://theporndude.com/best-adult-online-shops/
+22:55:08	Warning: 	File has moved from https://theporndude.com/best-adult-online-shops/ to /best-adult-online-shops
+22:55:08	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=466
+22:55:08	Warning: 	File has moved from https://theporndude.com/blog/?p=466 to https://theporndude.com/blog/strange-sexuality-objectum-sexuality/
+22:55:08	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=960
+22:55:08	Warning: 	File has moved from https://theporndude.com/blog/?p=960 to https://theporndude.com/blog/some-college-students-are-watching-porn-more-than-they-study/
+22:55:08	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=903
+22:55:08	Warning: 	File has moved from https://theporndude.com/blog/?p=903 to https://theporndude.com/blog/a-play-about-shooting-porn/
+22:55:08	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=945
+22:55:08	Warning: 	File has moved from https://theporndude.com/blog/?p=945 to https://theporndude.com/blog/top-vr-porn-sites-to-enjoy/
+22:55:08	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=905
+22:55:08	Warning: 	File has moved from https://theporndude.com/blog/?p=905 to https://theporndude.com/blog/trans-porn-really-helps-people/
+22:55:09	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=916
+22:55:09	Warning: 	File has moved from https://theporndude.com/blog/?p=916 to https://theporndude.com/blog/avn-and-oscars-similar-yet-different/
+22:55:34	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=412
+22:55:34	Warning: 	File has moved from https://theporndude.com/blog/?p=412 to https://theporndude.com/blog/theporndude-porn-site-spotlight-porn-com/
+22:55:36	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=507
+22:55:36	Warning: 	File has moved from https://theporndude.com/blog/?p=507 to https://theporndude.com/blog/does-equal-chores-mean-more-sex/
+22:55:37	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=512
+22:55:37	Warning: 	File has moved from https://theporndude.com/blog/?p=512 to https://theporndude.com/blog/xxx-books-about-porn/
+22:55:38	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=510
+22:55:38	Warning: 	File has moved from https://theporndude.com/blog/?p=510 to https://theporndude.com/blog/the-robot-sex-future/
+22:55:38	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=522
+22:55:38	Warning: 	File has moved from https://theporndude.com/blog/?p=522 to https://theporndude.com/blog/no-more-public-porn-watching-for-nyc-residents/
+22:55:38	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=651
+22:55:38	Warning: 	File has moved from https://theporndude.com/blog/?p=651 to https://theporndude.com/blog/breast-cancer-awareness-protects-tits-best/
+22:55:38	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=526
+22:55:38	Warning: 	File has moved from https://theporndude.com/blog/?p=526 to https://theporndude.com/blog/sexuality-is-on-the-decline-in-some-sexy-countries/
+22:55:38	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=524
+22:55:38	Warning: 	File has moved from https://theporndude.com/blog/?p=524 to https://theporndude.com/blog/ron-jeremy-to-represent-xxx-in-great-porn-debate/
+22:55:38	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=528
+22:55:38	Warning: 	File has moved from https://theporndude.com/blog/?p=528 to https://theporndude.com/blog/my-favorite-cam-sites/
+22:55:38	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=530
+22:55:38	Warning: 	File has moved from https://theporndude.com/blog/?p=530 to https://theporndude.com/blog/why-read-celebrity-blogs/
+22:55:38	Error: 	"Not Found" (404) at link https://theporndude.com/769/celebsuncensored (from https://theporndude.com/blog/why-read-celebrity-blogs/)
+22:55:46	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=923
+22:55:46	Warning: 	File has moved from https://theporndude.com/blog/?p=923 to https://theporndude.com/blog/which-rapper-is-dating-this-pornstar/
+22:55:46	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=907
+22:55:46	Warning: 	File has moved from https://theporndude.com/blog/?p=907 to https://theporndude.com/blog/no-more-porn-for-british-navy/
+22:55:47	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=901
+22:55:47	Warning: 	File has moved from https://theporndude.com/blog/?p=901 to https://theporndude.com/blog/its-hard-to-leave-porn-according-to-stars/
+22:55:48	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=491
+22:55:48	Warning: 	File has moved from https://theporndude.com/blog/?p=491 to https://theporndude.com/blog/how-to-sext-with-emojis/
+22:55:49	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=479
+22:55:49	Warning: 	File has moved from https://theporndude.com/blog/?p=479 to https://theporndude.com/blog/the-perfect-porn-sites-for-boredom/
+22:55:49	Error: 	"Not Found" (404) at link https://theporndude.com/550/porncom (from https://theporndude.com/blog/the-perfect-porn-sites-for-boredom/)
+22:55:49	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=394
+22:55:49	Warning: 	File has moved from https://theporndude.com/blog/?p=394 to https://theporndude.com/blog/why-so-many-people-prefer-live-cams/
+22:55:49	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=414
+22:55:49	Warning: 	File has moved from https://theporndude.com/blog/?p=414 to https://theporndude.com/blog/what-to-look-for-when-choosing-a-porn-site/
+22:55:49	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=446
+22:55:49	Warning: 	File has moved from https://theporndude.com/blog/?p=446 to https://theporndude.com/blog/the-luckiest-college-students-in-the-world/
+22:55:49	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=853
+22:55:49	Warning: 	File has moved from https://theporndude.com/blog/?p=853 to https://theporndude.com/blog/try-porno-karaoke-for-a-good-time/
+22:55:50	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=851
+22:55:50	Warning: 	File has moved from https://theporndude.com/blog/?p=851 to https://theporndude.com/blog/porn-holograms-for-the-future/
+22:56:08	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=505
+22:56:08	Warning: 	File has moved from https://theporndude.com/blog/?p=505 to https://theporndude.com/blog/troubled-politician-gets-dream-job-offer/
+22:56:08	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=477
+22:56:08	Warning: 	File has moved from https://theporndude.com/blog/?p=477 to https://theporndude.com/blog/remembering-sydney-leathers/
+22:56:08	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=715
+22:56:08	Warning: 	File has moved from https://theporndude.com/blog/?p=715 to https://theporndude.com/blog/did-cnn-really-post-porn/
+22:56:08	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=487
+22:56:08	Warning: 	File has moved from https://theporndude.com/blog/?p=487 to https://theporndude.com/blog/eu-internet-providers-shouldnt-block-porn-its-illegal/
+22:56:08	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=475
+22:56:08	Warning: 	File has moved from https://theporndude.com/blog/?p=475 to https://theporndude.com/blog/we-have-to-talk-about-mcchicken/
+22:56:08	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=485
+22:56:08	Warning: 	File has moved from https://theporndude.com/blog/?p=485 to https://theporndude.com/blog/free-porn-day/
+22:56:08	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=481
+22:56:08	Warning: 	File has moved from https://theporndude.com/blog/?p=481 to https://theporndude.com/blog/why-everyone-loves-dillion-harper/
+22:56:08	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=493
+22:56:08	Warning: 	File has moved from https://theporndude.com/blog/?p=493 to https://theporndude.com/blog/how-to-workout-for-porn/
+22:56:08	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=495
+22:56:08	Warning: 	File has moved from https://theporndude.com/blog/?p=495 to https://theporndude.com/blog/my-favorite-milfs/
+22:56:08	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=499
+22:56:08	Warning: 	File has moved from https://theporndude.com/blog/?p=499 to https://theporndude.com/blog/what-to-go-for-in-amateur-porn/
+22:56:23	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=849
+22:56:23	Warning: 	File has moved from https://theporndude.com/blog/?p=849 to https://theporndude.com/blog/porn-then-versus-porn-now/
+22:56:23	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=843
+22:56:23	Warning: 	File has moved from https://theporndude.com/blog/?p=843 to https://theporndude.com/blog/can-police-be-pornstars/
+22:56:23	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=402
+22:56:23	Warning: 	File has moved from https://theporndude.com/blog/?p=402 to https://theporndude.com/blog/elections-are-unimportant-enjoy-time-jerking-off-instead/
+22:56:23	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=452
+22:56:23	Warning: 	File has moved from https://theporndude.com/blog/?p=452 to https://theporndude.com/blog/former-porn-star-normalizes-sex-in-india/
+22:56:23	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=458
+22:56:23	Warning: 	File has moved from https://theporndude.com/blog/?p=458 to https://theporndude.com/blog/texas-college-cuties-prefer-dicks/
+22:56:23	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=489
+22:56:23	Warning: 	File has moved from https://theporndude.com/blog/?p=489 to https://theporndude.com/blog/emoji-sex-toys-break-into-the-market/
+22:56:23	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=809
+22:56:23	Warning: 	File has moved from https://theporndude.com/blog/?p=809 to https://theporndude.com/blog/straight-guys-love-gay-porn/
+22:56:23	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=470
+22:56:23	Warning: 	File has moved from https://theporndude.com/blog/?p=470 to https://theporndude.com/blog/how-they-make-cinematic-sex-scenes/
+22:56:23	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=497
+22:56:23	Warning: 	File has moved from https://theporndude.com/blog/?p=497 to https://theporndude.com/blog/porn-tubes-vs-premium-sites/
+22:56:23	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=483
+22:56:23	Warning: 	File has moved from https://theporndude.com/blog/?p=483 to https://theporndude.com/blog/sex-therapists-tell-us-how-often-to-have-sex/
+22:56:23	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=464
+22:56:23	Warning: 	File has moved from https://theporndude.com/blog/?p=464 to https://theporndude.com/blog/nice-guys-finish-first/
+22:56:23	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=462
+22:56:23	Warning: 	File has moved from https://theporndude.com/blog/?p=462 to https://theporndude.com/blog/theporndudes-favorite-pornstars-of-the-moment/
+22:56:23	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=454
+22:56:23	Warning: 	File has moved from https://theporndude.com/blog/?p=454 to https://theporndude.com/blog/the-influence-of-sex-on-fashion/
+22:56:23	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=755
+22:56:23	Warning: 	File has moved from https://theporndude.com/blog/?p=755 to https://theporndude.com/blog/hot-for-teacher/
+22:56:23	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=472
+22:56:23	Warning: 	File has moved from https://theporndude.com/blog/?p=472 to https://theporndude.com/blog/is-nyc-a-sex-desert/
+22:56:23	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=705
+22:56:23	Warning: 	File has moved from https://theporndude.com/blog/?p=705 to https://theporndude.com/blog/back-to-the-basics-with-image-fap/
+22:56:23	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=737
+22:56:23	Warning: 	File has moved from https://theporndude.com/blog/?p=737 to https://theporndude.com/blog/get-hot-chicks-dancing-on-your-desktop-with-istripper/
+22:56:23	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=468
+22:56:23	Warning: 	File has moved from https://theporndude.com/blog/?p=468 to https://theporndude.com/blog/the-risks-of-smart-sex-toys/
+22:56:23	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=408
+22:56:23	Warning: 	File has moved from https://theporndude.com/blog/?p=408 to https://theporndude.com/blog/your-favorite-pornstar/
+22:56:23	Warning: 	Moved Permanently for https://theporndude.com/blog/?p=707
+22:56:23	Warning: 	File has moved from https://theporndude.com/blog/?p=707 to https://theporndude.com/blog/these-porn-sites-are-safe/
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 hours 17 minutes 34 seconds : 12371 links scanned, 12209 files written (516818604 bytes overall) [309179364 bytes received at 37458 bytes/sec], 284207084 bytes transferred using HTTP compression in 10202 files, ratio 24%, 57.7 requests per connection
+(41 errors, 241 warnings, 0 messages)

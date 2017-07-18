@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+theporndude.com	TRUE	/	FALSE	1999999999	PHPSESSID	j1qqipsrtqi9l4bmvaq6g197a2
+.tpdmail.com	TRUE	/	FALSE	1999999999	__cfduid	d670588241c597cfea4b6eb120560f3b71500344733
+.theporndude.com	TRUE	/	FALSE	1999999999	__cfduid	d9dbd3ae2bfcee27a69caca9b571436101500346582
+
