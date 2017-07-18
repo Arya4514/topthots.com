@@ -12,25 +12,17 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
-});
-
-Route::get('/siterips', function () {
-    return view('siterips');
-});
-
-Route::get('/topthots', function () {
     return view('topthots');
 });
 
-Route::get('/porndude', function () {
+Route::get('/rabbit/theporndude.com/', function () {
     return view('porndude');
 });
 
-Route::get('/porndeals', function () {
+Route::get('/rabbit/porndeals.com/', function () {
     return view('porndeals');
 });
 
-Route::get('/rabbit', function () {
+Route::get('/rabbit/www.rabbitsreviews.com/', function () {
     return view('rabbit');
 });
