@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>TopThots</title>
+        <title>TopThots.com</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
@@ -51,12 +51,19 @@
 
             .links > a {
                 color: #636b6f;
-                padding: 0 25px;
+                padding: 0 3px;
                 font-size: 12px;
                 font-weight: 600;
                 letter-spacing: .1rem;
                 text-decoration: none;
                 text-transform: uppercase;
+            }
+
+            .siterips {
+                font-size: 36px !important;
+                text-transform: none !important;
+                font-weight: 300 !important;
+                color:#636b6f;
             }
 
             .m-b-md {
@@ -83,11 +90,9 @@
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Documentation</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="https://twitter.com/topthotdot" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @topthotdot</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+                    <a href="https://twitter.com/intent/tweet?screen_name=TopThotDot" class="twitter-mention-button" data-size="large" data-show-count="false">Tweet to @TopThotDot</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+                    <a class="siterips" href="http://topthots.com/rabbit/">SiteRips</a>
                 </div>
             </div>
         </div>
