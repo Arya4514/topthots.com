@@ -12,6 +12,14 @@
 */
 
 Route::get('/', function () {
+    return view('welcome');
+});
+
+Route::get('/siterips', function () {
+    return view('siterips');
+});
+
+Route::get('/topthots', function () {
     return view('topthots');
 });
 
