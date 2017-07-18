@@ -9,7 +9,10 @@
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
-
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+        <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
         <!-- Styles -->
         <style>
             html, body {
@@ -92,7 +95,7 @@
                 <div class="links">
                     <a href="https://twitter.com/topthotdot" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @topthotdot</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
                     <a href="https://twitter.com/intent/tweet?screen_name=TopThotDot" class="twitter-mention-button" data-size="large" data-show-count="false">Tweet to @TopThotDot</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-                    <a class="siterips" href="http://topthots.com/rabbit/">SiteRips</a>
+                    <a target="_blank" href="http://topthots.com/rabbit/"><button style="background-color:#1B95E0 !important;cursor: pointer !important;margin-bottom: 20px !important;margin-left: -3px;padding: 0.35em;" type="button" class="btn btn-primary btn-sm">SiteRips</button></a>
                 </div>
             </div>
         </div>
