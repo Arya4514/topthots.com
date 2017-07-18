@@ -12,5 +12,17 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('topthots');
+});
+
+Route::get('/porndude', function () {
+    return view('porndude');
+});
+
+Route::get('/porndeals', function () {
+    return view('porndeals');
+});
+
+Route::get('/rabbit', function () {
+    return view('rabbit');
 });
