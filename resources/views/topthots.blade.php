@@ -95,8 +95,8 @@
                 <div class="links">
                     <a href="https://twitter.com/topthotdot" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @topthotdot</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
                     <a href="https://twitter.com/intent/tweet?screen_name=TopThotDot" class="twitter-mention-button" data-size="large" data-show-count="false">Tweet to @TopThotDot</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-                    <a target="_blank" href="//topthots.com/rabbit/porndeals.com/"><button style="background-color:#1B95E0 !important;cursor: pointer !important;margin-bottom: 20px !important;margin-left: -3px;padding: 0.35em;" type="button" class="btn btn-primary btn-sm">PornDeals SiteRip</button></a>
-                    <a target="_blank" href="//topthots.com/rabbit/theporndude.com/"><button style="background-color:#1B95E0 !important;cursor: pointer !important;margin-bottom: 20px !important;margin-left: -3px;padding: 0.35em;" type="button" class="btn btn-primary btn-sm">ThePornDude SiteRip</button></a>
+                    <a target="_blank" href="//topthots.com/rabbit/porndeals.com/"><button style="background-color:#1B95E0 !important;font-size: 14px;cursor: pointer !important;margin-bottom: 20px !important;margin-left: -3px;padding: 0.35em;" type="button" class="btn btn-primary btn-sm">PornDeals SiteRip</button></a>
+                    <a target="_blank" href="//topthots.com/rabbit/theporndude.com/"><button style="background-color:#1B95E0 !important;font-size: 14px;cursor: pointer !important;margin-bottom: 20px !important;margin-left: -3px;padding: 0.35em;" type="button" class="btn btn-primary btn-sm">ThePornDude SiteRip</button></a>
                 </div>
             </div>
         </div>
