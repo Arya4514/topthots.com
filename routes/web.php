@@ -22,7 +22,3 @@ Route::get('/rabbit/theporndude.com/', function () {
 Route::get('/rabbit/porndeals.com/', function () {
     return view('porndeals');
 });
-
-Route::get('/rabbit/www.rabbitsreviews.com/', function () {
-    return view('rabbit');
-});
